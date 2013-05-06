@@ -1,7 +1,7 @@
 require 'cora'
 require 'siri_objects'
 
-class SiriProxy::Plugin::DanPoggi < SiriProxy::Plugin
+class SiriProxy::Plugin::Dpoggi < SiriProxy::Plugin
   def initialize(config)
   end
 
