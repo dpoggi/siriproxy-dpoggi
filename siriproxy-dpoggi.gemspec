@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = "siriproxy-dpoggi"
 
-  #s.add_dependency '', ['>= #']
+  s.add_dependency 'sequel'
 
   s.add_development_dependency 'rake'
   s.add_development_dependency 'bundler'
